@@ -1,0 +1,3 @@
+title: My Project
+description: Velocity distribution of ideal gas
+ exclude:  Html  arxiv  CMakeFiles Makefile data.dat
